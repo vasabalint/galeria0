@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#FAF9F6" stroke="#8B7E66" stroke-width="5"/>
+  <circle cx="50" cy="50" r="25" fill="#5A5A40"/>
+  <text x="50" y="55" font-family="serif" font-size="20" fill="white" text-anchor="middle" dominant-baseline="middle">EV</text>
+</svg>
